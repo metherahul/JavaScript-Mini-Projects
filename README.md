@@ -8,5 +8,5 @@
 
 Stay tuned for more updates! 😊  
 <br>
-Author- Rahul Gutpa
+Author- Rahul Gupta
 
