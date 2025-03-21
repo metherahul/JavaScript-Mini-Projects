@@ -1,0 +1,30 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+body{
+    background-color: rgb(16, 96, 214);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+h2{
+    margin: 0px 0px 0px 10px 0px;
+}
+input{
+    width: 200px;
+    margin: 10px 0px; 
+    padding: 10px;
+}
+input[type="submit"]{
+    width: 225px;
+    background-color:rgb(14, 45, 224);
+    border: 0px;
+    color: white;
+}
+#form-container{
+    background-color: white;
+    padding: 50px;
+    text-align: center;
+}
